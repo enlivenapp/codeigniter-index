@@ -19,7 +19,7 @@ Under the Contributors tab, add your name of choice and link to your repo or web
 
 ## Criteria to add
 
-Add projects that are available to the general public or developers. This is not the place to advertise your restricted or prive project.
+Add projects that are available to the general public or developers. This is not the place to advertise your restricted or private project.
 
 
 ## Status Definitions
