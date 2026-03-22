@@ -4,7 +4,11 @@
 
 CodeIgniter v1 was the original release of the framework, first appearing in 2006 by EllisLab. It established the lightweight MVC pattern that CodeIgniter became known for.
 
-No known packages, libraries, or resources survive for this version.
+## Known Resources
+
+| Package | Description | Status | Also Available |
+|---------|-------------|--------|----------------|
+| [Open Blog](https://github.com/enlivenapp/Open-Blog) | Open-source blogging platform built on CodeIgniter 1.7.1. Later continued as Pubvana. | Archived | [Newer Available](../v3/README.md#cms) |
 
 ## Looking for active versions?
 

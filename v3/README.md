@@ -145,6 +145,7 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 | [MaxSite CMS](https://github.com/maxsite/cms) | Lightweight CMS based on CodeIgniter. | Unmaintained | - |
 | [No-CMS](https://github.com/goFrendiAsgard/No-CMS) | CodeIgniter-based CMS framework with module support. | Unmaintained | - |
 | [nodCMS](https://github.com/khodakhah/nodcms) | Free CMS powered by CodeIgniter with module system. | Unmaintained | [Newer Available](../v4/README.md#cms) |
+| [Pubvana](https://github.com/enlivenapp/pubvana) | Open-source blogging and content management system. Successor to Open Blog (CI v1/v2). | Unmaintained | [Newer Available](../v4/README.md#cms) |
 | [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) | Flat-file CMS built on CodeIgniter. | Unmaintained | - |
 
 ## CRUD Generators

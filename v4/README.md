@@ -119,7 +119,7 @@ A community-curated index of packages, tools, and resources for CodeIgniter v4.
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
 | [abydahana/aksara](https://github.com/abydahana/aksara) | CodeIgniter 4 CRUD toolkit building complex applications from a single controller, supporting headless REST APIs and traditional views. | Active | - |
-| [enlivenapp/pubvana](https://github.com/enlivenapp/pubvana) | Pubvana CMS — a modern blogging and content management system built on CodeIgniter 4 and Shield. | Maintained | - |
+| [Pubvana](https://github.com/enlivenapp/pubvana) | Modern blogging and content management system built on CodeIgniter 4 and Shield. | Active | [Older Available](../v3/README.md#cms) |
 | [khodakhah/nodcms](https://github.com/khodakhah/nodcms) | Open-source CMS based on CodeIgniter 4 with a module system. | Unmaintained | [Older Available](../v3/README.md#cms) |
 
 ## CRUD Generators
