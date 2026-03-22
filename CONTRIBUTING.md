@@ -9,7 +9,18 @@ Every entry requires all four table columns:
 | Package | Package name linked to the correct release for that CI version (tagged release preferred, branch if no tags, repo root as fallback) |
 | Description | One-line summary of what the package does |
 | Status | One of: Active, Maintained, Archived, Unmaintained (see definitions below) |
-| Also Available | Link to the entry in another version's README if applicable, or `-` |
+| Also Available | Link to the entry in another version's README in this repo if applicable, or `-` |
+
+
+## Add your info to the root README.md 
+
+Under the Contributors tab, add your name of choice and link to your repo or website in your PR if you haven't already. Thank you for helping the CodeIgniter community.
+
+
+## Criteria to add
+
+Add projects that are available to the general public or developers. This is not the place to advertise your restricted or prive project.
+
 
 ## Status Definitions
 
