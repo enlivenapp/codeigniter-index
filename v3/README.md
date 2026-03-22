@@ -129,7 +129,7 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 | [CIModelTester](https://github.com/cwingrav/CIModelTester) | Interactive model web interface for inspecting and testing CodeIgniter models. | Unmaintained | - |
 | [Codeigniter-PSR4-Autoload](https://github.com/yidas/codeigniter-psr4-autoload) | PSR-4 autoloader for CodeIgniter 3 applications, enabling Composer-style class loading. | Maintained | - |
 | [Ignited Datatables](https://github.com/IgnitedDatatables/Ignited-Datatables) | Wrapper library for jQuery DataTables with server-side processing. | Unmaintained | - |
-| [ngekoding/codeigniter-datatables](https://github.com/ngekoding/codeigniter-datatables) | DataTables server-side processing for CodeIgniter 3 and 4. | Active | - |
+| [ngekoding/codeigniter-datatables](https://github.com/ngekoding/codeigniter-datatables) | DataTables server-side processing for CodeIgniter 3 and 4. | Active | [Newer Available](../v4/README.md#database-tools) |
 | [SmartGrid for CodeIgniter](https://github.com/techlab/codeigniter-smartgrid) | Simple datagrid control for CodeIgniter framework with Bootstrap. | Unmaintained | - |
 
 ## CMS
@@ -155,7 +155,7 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 | [ciig](https://github.com/shabeeb/ciig) | CodeIgniter scaffolder for developers generating MVC files. | Unmaintained | - |
 | [Codeigniter CRUD Generator](https://bitbucket.org/harviacode/codeigniter-crud-generator) | Simple tool to auto-generate MVC files from database tables. | Unmaintained | - |
 | [Combustor](https://github.com/rougin/combustor) | Generate controllers, models, and views from database tables for CodeIgniter. | Maintained | - |
-| [Grocery CRUD](https://github.com/scoumbourdis/grocery-crud) | Full-featured CRUD library for CodeIgniter. | Active | - |
+| [Grocery CRUD](https://github.com/scoumbourdis/grocery-crud) | Full-featured CRUD library for CodeIgniter. | Active | [Newer Available](../v4/README.md#crud-generators) |
 | [iScaffold](https://github.com/tiborsaas/iScaffold) | CRUD application generator for CodeIgniter. | Unmaintained | - |
 
 ## Admin Panels
@@ -181,7 +181,7 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 | [angelleye/paypal-codeigniter](https://github.com/angelleye/paypal-codeigniter) | Complete PayPal Classic API library for PHP CodeIgniter. | Unmaintained | - |
 | [codeigniter-payments](https://github.com/calvinfroedge/codeigniter-payments) | Spark for uniform payments in CodeIgniter supporting 12+ payment gateways. | Unmaintained | - |
 | [codexworld/paypal-library-for-codeigniter](https://github.com/codexworld/paypal-library-for-codeigniter) | PayPal library with config file for CodeIgniter integration. | Unmaintained | - |
-| [Omnipay](https://github.com/thephpleague/omnipay) | Framework-agnostic multi-gateway payment processing library (works with CI3). | Active | - |
+| [Omnipay](https://github.com/thephpleague/omnipay) | Framework-agnostic multi-gateway payment processing library (works with CI3). | Active | [Newer Available](../v4/README.md#payment-gateways) |
 | [Stripe-Payment-Gateway-Integration-CodeIgniter](https://github.com/anburocky3/Stripe-Payment-Gateway-Integration-CodeIgniter) | Stripe payment gateway integration example for CodeIgniter 3. | Unmaintained | - |
 | [Veritrans Codeigniter](https://github.com/harrypujianto/Veritrans-Codeigniter) | Payment gateway library for Veritrans/Midtrans on CodeIgniter. | Unmaintained | - |
 
@@ -205,7 +205,7 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 | [CI-Blade (cntaoyu)](https://github.com/cntaoyu/CI-Blade) | Laravel Blade template engine for CodeIgniter 3. | Unmaintained | - |
 | [CI-Blade (chaclee)](https://github.com/chaclee/ci-blade) | Another Laravel Blade implementation for CodeIgniter 3. | Unmaintained | - |
 | [Codeigniter-Blade-Theme-Engine](https://github.com/SalFay/Codeigniter-Blade-Theme-Engine) | CMS-like theme engine for CodeIgniter using Laravel's Blade. | Unmaintained | - |
-| [codeigniter-ss-twig](https://github.com/kenjis/codeigniter-ss-twig) | Simple and secure Twig integration for CodeIgniter 3.x and 4.x. | Maintained | - |
+| [codeigniter-ss-twig](https://github.com/kenjis/codeigniter-ss-twig) | Simple and secure Twig integration for CodeIgniter 3.x and 4.x. | Maintained | [Newer Available](../v4/README.md#template-engines) |
 | [CodeIgniter-Template (philsturgeon)](https://github.com/philsturgeon/codeigniter-template) | Template library for CodeIgniter providing layouts and partials. | Unmaintained | - |
 | [CodeIgniter Template Library (jenssegers)](https://github.com/jenssegers/codeigniter-template-library) | Template library for CodeIgniter with partials and widgets. | Unmaintained | - |
 | [MY_Controller](https://github.com/lonnieezell/my_controller) | Simple template engine with convenience features for CodeIgniter. | Unmaintained | - |
@@ -286,7 +286,7 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
-| [codeigniter-datatables (ngekoding)](https://github.com/ngekoding/codeigniter-datatables) | DataTables server-side processing with search for CodeIgniter 3 and 4. | Active | - |
+| [codeigniter-datatables (ngekoding)](https://github.com/ngekoding/codeigniter-datatables) | DataTables server-side processing with search for CodeIgniter 3 and 4. | Active | [Newer Available](../v4/README.md#search) |
 | [elasticsearch-codeigniter-library](https://github.com/confact/elasticsearch-codeigniter-library) | Small library to make Elasticsearch search queries and manage indexes. | Unmaintained | - |
 
 ## Geolocation
