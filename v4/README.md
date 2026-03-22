@@ -213,6 +213,7 @@ A community-curated index of packages, tools, and resources for CodeIgniter v4.
 
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
+| [CI4 Skills for Claude Code](https://github.com/enlivenapp/Codeigniter4-App-and-API-Skills-for-Claude-Code) | Claude Code skills for CI4 — `/ci4` for core framework (MVC, routing, models, migrations, Shield auth) and `/ci4-api` for building REST APIs (versioning, token auth, rate limiting, webhooks). | Active | - |
 | [michalskoula/codeigniter-ai-translation](https://github.com/MichalSkoula/codeigniter-ai-translation) | Translates CodeIgniter 3/4 language files to any language using the Anthropic Claude REST API. | Active | - |
 
 ## AI-Powered Code Generation
