@@ -120,7 +120,7 @@ A community-curated index of packages, tools, and resources for CodeIgniter v4.
 |---------|-------------|--------|----------------|
 | [abydahana/aksara](https://github.com/abydahana/aksara) | CodeIgniter 4 CRUD toolkit building complex applications from a single controller, supporting headless REST APIs and traditional views. | Active | - |
 | [enlivenapp/pubvana](https://github.com/enlivenapp/pubvana) | Pubvana CMS — a modern blogging and content management system built on CodeIgniter 4 and Shield. | Maintained | - |
-| [khodakhah/nodcms](https://github.com/khodakhah/nodcms) | Open-source CMS based on CodeIgniter 4 with a module system. | Unmaintained | - |
+| [khodakhah/nodcms](https://github.com/khodakhah/nodcms) | Open-source CMS based on CodeIgniter 4 with a module system. | Unmaintained | [Older Available](../v3/README.md#cms) |
 
 ## CRUD Generators
 
@@ -260,9 +260,9 @@ A community-curated index of packages, tools, and resources for CodeIgniter v4.
 
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
+| [davodm/codeigniter4-turnstile](https://github.com/davodm/codeigniter4-turnstile) | Cloudflare Turnstile CAPTCHA integration for CodeIgniter 4. | Active | - |
 | [daycry/encryption](https://github.com/daycry/encryption) | Encryption library for CodeIgniter 4 with multiple cipher support. | Active | - |
 | [daycry/recaptcha](https://github.com/daycry/recaptcha) | Google reCAPTCHA v2/v3 integration library for CodeIgniter 4. | Active | - |
-| [davodm/codeigniter4-turnstile](https://github.com/davodm/codeigniter4-turnstile) | Cloudflare Turnstile CAPTCHA integration for CodeIgniter 4. | Active | - |
 | [phpdevsr/recaptcha-codeigniter4](https://github.com/phpdevsr/recaptcha-codeigniter4) | Google reCAPTCHA v2 integration library for CodeIgniter 4. | Active | - |
 | [yassinedoghri/codeigniter-altcha](https://github.com/yassinedoghri/codeigniter-altcha) | GDPR, WCAG 2.2 AA, and EAA-compliant self-hosted CAPTCHA alternative using Proof-of-Work for CodeIgniter 4. | Active | - |
 

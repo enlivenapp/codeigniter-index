@@ -47,12 +47,12 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 |---------|-------------|--------|----------------|
 | [Bonfire](https://github.com/ci-bonfire/Bonfire) | Jumpstart your CodeIgniter web applications with a ready-to-use admin panel, modules, and tools. | Unmaintained | - |
 | [cabion](https://github.com/mavisland/cabion) | CodeIgniter 3 boilerplate including Bootstrap, AdminLTE, and Ion Auth. | Unmaintained | - |
-| [ci_bootstrap_3](https://github.com/waifung0207/ci_bootstrap_3) | Multi-tenant website template (frontend, admin panel, API) based on CodeIgniter 3. | Unmaintained | - |
 | [ci-starter](https://github.com/RoverWire/ci-starter) | CodeIgniter boilerplate with admin panel, HMVC, user management, and password reset. | Unmaintained | - |
 | [ci-starterkit](https://github.com/llebkered/ci-starterkit) | Starter template combining CodeIgniter 3, Twig, and Ion Auth. | Unmaintained | - |
+| [ci_bootstrap_3](https://github.com/waifung0207/ci_bootstrap_3) | Multi-tenant website template (frontend, admin panel, API) based on CodeIgniter 3. | Unmaintained | - |
 | [CodeIgniter Skeleton](https://github.com/bkader/skeleton) | CI skeleton with ready-to-use dashboard, database, hooks system, plugins, and themes. | Unmaintained | - |
-| [codeigniter_boilerplate](https://github.com/jiji262/codeigniter_boilerplate) | PHP project starter with CodeIgniter 3, Bootstrap 3, and Gulp asset pipeline. | Unmaintained | - |
 | [codeigniter3-hmvc-boilerplate](https://github.com/joseluisq/codeigniter3-hmvc-boilerplate) | Boilerplate for CodeIgniter 3 HMVC with Propel 2 ORM and OAuth2. | Unmaintained | - |
+| [codeigniter_boilerplate](https://github.com/jiji262/codeigniter_boilerplate) | PHP project starter with CodeIgniter 3, Bootstrap 3, and Gulp asset pipeline. | Unmaintained | - |
 | [ErtikazOS](https://github.com/daif/ertikazos) | Complete platform for building web applications on CodeIgniter. | Unmaintained | - |
 | [Ignition-Go](https://github.com/ci-blox/Ignition-Go) | Bootstrap 4 / CodeIgniter 3 modular (HMVC) app building framework for enterprise-class web applications. | Unmaintained | - |
 | [Luthier CI](https://github.com/ingeniasoftware/luthier-ci) | Improved routing, middleware support, and authentication tools for CodeIgniter 3. | Unmaintained | - |
@@ -76,8 +76,8 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
 | [Bash Igniter](https://github.com/omarkdev/bash-igniter) | Create controllers, models, routes, views, and helpers via the command line. | Unmaintained | - |
-| [CodeIgniter-CLI (philsturgeon)](https://github.com/philsturgeon/codeigniter-cli) | Work with CodeIgniter over the command line. | Unmaintained | - |
 | [codeigniter-cli (kenjis)](https://github.com/kenjis/codeigniter-cli) | CLI tool for CodeIgniter 3 with migration commands and extensible custom commands. | Unmaintained | - |
+| [CodeIgniter-CLI (philsturgeon)](https://github.com/philsturgeon/codeigniter-cli) | Work with CodeIgniter over the command line. | Unmaintained | - |
 | [Craftsman-CLI](https://github.com/davidsosavaldes/Craftsman) | CLI for CodeIgniter 3 built on Symfony Console component. | Unmaintained | - |
 
 ## Authentication
@@ -143,8 +143,8 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 | [ImageCMS](https://github.com/imagecms/ImageCMS) | Open-source PHP CMS based on CodeIgniter. | Unmaintained | - |
 | [Ionize CMS](https://github.com/ionize/ionize) | Native multilingual CMS built on CodeIgniter. | Unmaintained | - |
 | [MaxSite CMS](https://github.com/maxsite/cms) | Lightweight CMS based on CodeIgniter. | Unmaintained | - |
-| [nodCMS](https://github.com/khodakhah/nodcms) | Free CMS powered by CodeIgniter with module system. | Unmaintained | - |
 | [No-CMS](https://github.com/goFrendiAsgard/No-CMS) | CodeIgniter-based CMS framework with module support. | Unmaintained | - |
+| [nodCMS](https://github.com/khodakhah/nodcms) | Free CMS powered by CodeIgniter with module system. | Unmaintained | [Newer Available](../v4/README.md#cms) |
 | [Pusaka CMS](https://github.com/codepolitan-lab/pusakacms) | Flat-file CMS built on CodeIgniter. | Unmaintained | - |
 
 ## CRUD Generators
@@ -169,9 +169,9 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
-| [codeigniter-rest](https://github.com/yidas/codeigniter-rest) | CodeIgniter 3 RESTful API resource base controller. | Maintained | - |
 | [CodeIgniter REST Client](https://github.com/philsturgeon/codeigniter-restclient) | RESTful client library for CodeIgniter. | Unmaintained | - |
 | [CodeIgniter REST Server](https://github.com/chriskacerguis/codeigniter-restserver) | Fully RESTful server implementation for CodeIgniter using one library, one config, one controller. | Unmaintained | - |
+| [codeigniter-rest](https://github.com/yidas/codeigniter-rest) | CodeIgniter 3 RESTful API resource base controller. | Maintained | - |
 | [codeigniter-rest-api](https://github.com/moudarir/codeigniter-rest-api) | CodeIgniter 3 API REST with Basic or Bearer Authentication methods. | Unmaintained | - |
 
 ## Payment Gateways
@@ -189,11 +189,11 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
+| [Codeigniter TwitterOauth](https://github.com/MunGell/Codeigniter-TwitterOAuth) | CodeIgniter and TwitterOauth library integration. | Unmaintained | - |
 | [CodeIgniter-bitly](https://github.com/patrickpopowicz/codeigniter-bitly) | CodeIgniter library for the bit.ly REST API. | Unmaintained | - |
 | [CodeIgniter-Facebook](https://github.com/elliothaughin/codeigniter-facebook) | Facebook Graph API, OpenGraph, and Facebook Connect for CodeIgniter. | Unmaintained | - |
 | [CodeIgniter-Instagram-API](https://github.com/suhindra/CodeIgniter-Instagram-API) | CodeIgniter library to interact with the Instagram API. | Unmaintained | - |
 | [CodeIgniter-Twitter](https://github.com/elliothaughin/codeigniter-twitter) | Twitter API library for CodeIgniter. | Unmaintained | - |
-| [Codeigniter TwitterOauth](https://github.com/MunGell/Codeigniter-TwitterOAuth) | CodeIgniter and TwitterOauth library integration. | Unmaintained | - |
 | [codeigniter3-social](https://github.com/iescarro/codeigniter3-social) | Simple, minimal library for integrating Social Login (OAuth 2.0) into CodeIgniter 3. | Unmaintained | - |
 | [HybridIgniter](https://github.com/andacata/HybridIgniter) | HybridAuth and CodeIgniter integration for social login. | Unmaintained | - |
 
@@ -202,12 +202,12 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
 | [Attire](https://github.com/davidsosavaldes/Attire) | Twig template engine and Sprockets-PHP asset manager for CodeIgniter 3. | Unmaintained | - |
-| [CI-Blade (cntaoyu)](https://github.com/cntaoyu/CI-Blade) | Laravel Blade template engine for CodeIgniter 3. | Unmaintained | - |
 | [CI-Blade (chaclee)](https://github.com/chaclee/ci-blade) | Another Laravel Blade implementation for CodeIgniter 3. | Unmaintained | - |
+| [CI-Blade (cntaoyu)](https://github.com/cntaoyu/CI-Blade) | Laravel Blade template engine for CodeIgniter 3. | Unmaintained | - |
+| [CodeIgniter Template Library (jenssegers)](https://github.com/jenssegers/codeigniter-template-library) | Template library for CodeIgniter with partials and widgets. | Unmaintained | - |
 | [Codeigniter-Blade-Theme-Engine](https://github.com/SalFay/Codeigniter-Blade-Theme-Engine) | CMS-like theme engine for CodeIgniter using Laravel's Blade. | Unmaintained | - |
 | [codeigniter-ss-twig](https://github.com/kenjis/codeigniter-ss-twig) | Simple and secure Twig integration for CodeIgniter 3.x and 4.x. | Maintained | [Newer Available](../v4/README.md#template-engines) |
 | [CodeIgniter-Template (philsturgeon)](https://github.com/philsturgeon/codeigniter-template) | Template library for CodeIgniter providing layouts and partials. | Unmaintained | - |
-| [CodeIgniter Template Library (jenssegers)](https://github.com/jenssegers/codeigniter-template-library) | Template library for CodeIgniter with partials and widgets. | Unmaintained | - |
 | [MY_Controller](https://github.com/lonnieezell/my_controller) | Simple template engine with convenience features for CodeIgniter. | Unmaintained | - |
 | [Slice-Library](https://github.com/GustMartins/Slice-Library) | CodeIgniter library simulating Laravel's Blade templating system. | Unmaintained | - |
 | [Twiggy](https://github.com/edmundask/codeigniter-twiggy) | Twig template engine implementation for CodeIgniter. | Unmaintained | - |
@@ -233,19 +233,19 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
 | [ci-phpunit-test](https://github.com/kenjis/ci-phpunit-test) | An easier way to use PHPUnit with CodeIgniter 3.x; the most widely used CI3 test tool. | Maintained | - |
+| [CodeIgniter SimpleTest](https://github.com/ericbarnes/codeigniter-simpletest) | SimpleTest integration for CodeIgniter. | Unmaintained | - |
 | [codeigniter-phpunit (fmalk)](https://github.com/fmalk/codeigniter-phpunit) | Hack to make CodeIgniter work with PHPUnit seamlessly. | Unmaintained | - |
 | [codeigniter-phpunit (yidas)](https://github.com/yidas/codeigniter-phpunit) | CodeIgniter 3 PHPUnit test extension library. | Maintained | - |
-| [CodeIgniter SimpleTest](https://github.com/ericbarnes/codeigniter-simpletest) | SimpleTest integration for CodeIgniter. | Unmaintained | - |
 
 ## Scaffolding / CLI Generators
 
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
+| [Codeigniter Global Installer](https://github.com/davidsosavaldes/Codeigniter-Installer) | Composer global command that installs the latest official CodeIgniter framework. | Unmaintained | - |
+| [CodeIgniter Installer](https://github.com/mikecrittenden/codeigniter-installer) | Starting point for building an installer on CodeIgniter. | Unmaintained | - |
+| [codeigniter3-ide-helper](https://github.com/yusuftaufiq/codeigniter3-ide-helper) | CLI application generating a helper file for IDE auto-completion in CI3. | Unmaintained | - |
 | [codeigniter3-scaffold](https://github.com/universidadecodeigniter/codeigniter3-scaffold) | Simple scaffold generator for CodeIgniter 3 using Twitter Bootstrap templates. | Unmaintained | - |
 | [Codeigniterplus](https://github.com/ranacseruet/codeigniterplus) | Scaffolding for building a good standard CodeIgniter web application. | Unmaintained | - |
-| [codeigniter3-ide-helper](https://github.com/yusuftaufiq/codeigniter3-ide-helper) | CLI application generating a helper file for IDE auto-completion in CI3. | Unmaintained | - |
-| [CodeIgniter Installer](https://github.com/mikecrittenden/codeigniter-installer) | Starting point for building an installer on CodeIgniter. | Unmaintained | - |
-| [Codeigniter Global Installer](https://github.com/davidsosavaldes/Codeigniter-Installer) | Composer global command that installs the latest official CodeIgniter framework. | Unmaintained | - |
 | [Spark Plug](https://github.com/rougin/spark-plug) | Another way to access CodeIgniter's instance from third-party packages. | Unmaintained | - |
 
 ## AI/LLM Skills & Integrations
@@ -260,17 +260,17 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
-| [CodeIgniter-Cache (benedmunds)](https://github.com/benedmunds/codeigniter-cache) | Partial caching library for CodeIgniter with per-action cache control. | Unmaintained | - |
 | [CodeIgniter File Cache Library](https://github.com/allanfreitas/CodeIgniter-File-Cache-Library) | Very fast file-based caching library for CodeIgniter. | Unmaintained | - |
 | [CodeIgniter Redis](https://github.com/joelcox/codeigniter-redis) | CodeIgniter library to interact with Redis. | Unmaintained | - |
+| [CodeIgniter-Cache (benedmunds)](https://github.com/benedmunds/codeigniter-cache) | Partial caching library for CodeIgniter with per-action cache control. | Unmaintained | - |
 | [Memcached Library for CodeIgniter](https://github.com/tomschlick/memcached-library) | Library to interface with the Memcached caching system. | Unmaintained | - |
 
 ## Email
 
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
-| [CodeIgniter-Email-PHP-Errors](https://github.com/mikedfunk/CodeIgniter-Email-PHP-Errors) | Configurable drop-in to email yourself PHP errors encountered in CodeIgniter. | Unmaintained | - |
 | [CodeIgniter PHPMailer](https://github.com/ivantcholakov/codeigniter-phpmailer) | CodeIgniter-compatible email library powered by PHPMailer. | Maintained | - |
+| [CodeIgniter-Email-PHP-Errors](https://github.com/mikedfunk/CodeIgniter-Email-PHP-Errors) | Configurable drop-in to email yourself PHP errors encountered in CodeIgniter. | Unmaintained | - |
 | [CodeIgniter-Postmark](https://github.com/zackkitzmiller/postmark-codeigniter) | Postmark email library for CodeIgniter. | Unmaintained | - |
 
 ## File Handling
@@ -279,8 +279,8 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 |---------|-------------|--------|----------------|
 | [CI-File-Browser-Awesome](https://github.com/bachors/CI-FIle-Browser-Awesome) | Simple file browser plugin for CodeIgniter with jQuery. | Unmaintained | - |
 | [CodeIgniter Multi-Upload](https://github.com/stvnthomas/CodeIgniter-Multi-Upload) | Multiple file upload support for CodeIgniter. | Unmaintained | - |
-| [CodeIgniter-Unzip](https://github.com/philsturgeon/codeigniter-unzip) | Extract ZIP files in CodeIgniter without installing PECL extensions. | Unmaintained | - |
 | [codeigniter-image-moo](https://github.com/ufukozdemir1990/codeigniter-image-moo) | Image manipulation library for CodeIgniter. | Unmaintained | - |
+| [CodeIgniter-Unzip](https://github.com/philsturgeon/codeigniter-unzip) | Extract ZIP files in CodeIgniter without installing PECL extensions. | Unmaintained | - |
 
 ## Search
 
@@ -300,10 +300,10 @@ A community-maintained index of packages, libraries, and resources for CodeIgnit
 | Package | Description | Status | Also Available |
 |---------|-------------|--------|----------------|
 | [Bcrypt CodeIgniter](https://github.com/dwightwatson/codeigniter-bcrypt) | Adaption of PHPPass for use as a CodeIgniter bcrypt library. | Unmaintained | - |
+| [CodeIgniter Recaptcha (hok00age)](https://github.com/hok00age/codeigniter-recaptcha) | CodeIgniter library to work with reCAPTCHA. | Unmaintained | - |
 | [CodeIgniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) | Library to use the Blockchain Wallet API from CodeIgniter. | Unmaintained | - |
 | [CodeIgniter-reCAPTCHA (appleboy)](https://github.com/appleboy/CodeIgniter-reCAPTCHA) | reCAPTCHA library for CodeIgniter. | Unmaintained | - |
 | [CodeIgniter-recaptcha (mehdibo)](https://github.com/mehdibo/Codeigniter-recaptcha) | Library to implement Google reCAPTCHA v2 in CodeIgniter. | Unmaintained | - |
-| [CodeIgniter Recaptcha (hok00age)](https://github.com/hok00age/codeigniter-recaptcha) | CodeIgniter library to work with reCAPTCHA. | Unmaintained | - |
 | [CodeIgniter-SSLHook](https://github.com/mehdibo/Codeigniter-SSLHook) | Appropriate headers and redirect hook for SSL/HTTPS enforcement. | Unmaintained | - |
 
 ## Breadcrumbs / Navigation
