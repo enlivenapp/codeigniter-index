@@ -19,6 +19,7 @@ A comprehensive, version-organized catalog of all known third-party packages, li
 codeigniter-index/
 ├── README.md          # Project overview, CI history/timeline, version status table, contributing guide
 ├── LICENSE            # MIT License
+├── CONTRIBUTING.md    # Contribution guidelines (also linked from root README)
 ├── v1/
 │   └── README.md      # Discontinued notice, brief history, pointer to newer versions
 ├── v2/
@@ -36,8 +37,18 @@ Contains the following sections in order:
 1. **Title & description** — what this project is and why it exists
 2. **Version status table** — quick-reference showing each version, its status (discontinued/maintenance/active), and a link to its subfolder README
 3. **CodeIgniter history/timeline** — narrative of the framework's evolution across versions (to be co-authored with user's firsthand knowledge)
-4. **How to contribute** — guidelines for adding or updating entries
+4. **How to contribute** — brief summary linking to CONTRIBUTING.md
 5. **License** — MIT
+
+## CONTRIBUTING.md
+
+Separate file with detailed contribution guidelines:
+
+- Required information for a new entry: all four columns must be filled (Package with link, Description, Status, Also Available)
+- How to determine status: definitions provided (see status values above), contributors should check repo activity and archive state
+- Link requirements: prefer tagged releases for the specific CI version; use branch link if no tags; repo root as last resort
+- PR format: one entry per PR preferred, or batch additions within a single category
+- How to propose new categories
 
 ## v1 and v2 READMEs
 
@@ -51,6 +62,8 @@ Minimal pages containing:
 
 v1 will be nearly empty as it has essentially vanished from the internet. v2 may have a handful of legacy items.
 
+Note: v3 is in security-only maintenance mode. Its README should include a notice at the top indicating this status and recommending v4 for new projects, while still providing the full catalog of v3 packages.
+
 ## v3 and v4 READMEs — Entry Format
 
 Each category is presented as a markdown table:
@@ -58,8 +71,8 @@ Each category is presented as a markdown table:
 ```markdown
 ## Authentication
 
-| Package | Description | Status | |
-|---------|-------------|--------|-|
+| Package | Description | Status | Also Available |
+|---------|-------------|--------|----------------|
 | [Ion Auth](https://github.com/.../releases/tag/v3.x) | Simple and lightweight auth system | Active | [Newer Available](../v4/README.md#authentication) |
 | [Tank-Auth](https://github.com/.../releases/tag/v2.0) | Authentication library | Archived | - |
 ```
@@ -68,8 +81,20 @@ Each category is presented as a markdown table:
 
 - **Package** — linked name pointing to the correct release/version for that CI version on GitHub (or homepage if not on GitHub)
 - **Description** — one-line summary of what it does
-- **Status** — Active, Maintained, Archived, or Unmaintained
-- **Cross-reference (unlabeled column)** — "Newer Available" (in v3, linking to `../v4/README.md#category`) or "Older Available" (in v4, linking to `../v3/README.md#category`), or `-` if single-version only. Links use GitHub-compatible markdown header anchors.
+- **Status** — one of the following:
+  - **Active** — regular commits in the last 12 months, accepting issues/PRs
+  - **Maintained** — stable, receives security/compatibility fixes but no new features
+  - **Archived** — repo explicitly archived by owner or marked as end-of-life
+  - **Unmaintained** — no meaningful activity for 2+ years, not explicitly archived
+- **Also Available** — "Newer Available" (in v3, linking to `../v4/README.md#category`) or "Older Available" (in v4, linking to `../v3/README.md#category`), or `-` if single-version only. Links use GitHub-compatible markdown header anchors.
+
+### Cross-version packages
+
+Packages that support multiple CI versions appear as separate rows in each version's README. The Package link points to the correct release, branch, or repo for that specific CI version. Some packages use a single repo with version branches; others have entirely separate repos per CI version. In either case, link to the most specific artifact available (tagged release preferred, branch if no tags, repo root as fallback).
+
+### Sort order
+
+Entries within each category table are sorted alphabetically by package name.
 
 ## Categories
 
@@ -114,11 +139,11 @@ All categories listed in every v3/v4 README, even if empty. Empty categories dis
 **Development & Testing**
 - Debugging / Profiling
 - Testing
-- Code Generators
+- Scaffolding / CLI Generators
 
 **AI & Automation**
 - AI/LLM Skills & Integrations
-- Code Generation Tools
+- AI-Powered Code Generation
 
 **Utilities**
 - Caching
