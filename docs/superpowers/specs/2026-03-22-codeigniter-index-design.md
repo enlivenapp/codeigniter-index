@@ -35,10 +35,12 @@ codeigniter-index/
 Contains the following sections in order:
 
 1. **Title & description** — what this project is and why it exists
-2. **Version status table** — quick-reference showing each version, its status (discontinued/maintenance/active), and a link to its subfolder README
-3. **CodeIgniter history/timeline** — narrative of the framework's evolution across versions (to be co-authored with user's firsthand knowledge)
-4. **How to contribute** — brief summary linking to CONTRIBUTING.md
-5. **License** — MIT
+2. **Links** to codeigniter.com and github, packagist, etc.
+3. **Version status table** — quick-reference showing each version, its status (discontinued/maintenance/active), and a link to its subfolder README 
+4. **CodeIgniter history/timeline** — narrative of the framework's evolution across versions (to be co-authored with user's firsthand knowledge)
+5. **How to contribute** — brief summary linking to CONTRIBUTING.md
+6. **Contributers** -list github or name - what they contributed (like V4 CRUD "title")
+7. **License** — MIT
 
 ## CONTRIBUTING.md
 
