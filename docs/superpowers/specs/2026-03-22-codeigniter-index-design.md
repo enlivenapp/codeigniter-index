@@ -11,7 +11,7 @@ A comprehensive, version-organized catalog of all known third-party packages, li
 - Use a table-based format for scannability over traditional bullet lists
 - Cross-reference packages that span multiple CI versions
 - Include all categories even when empty, to signal what contributions are welcome
-- Be the definitive resource for the CodeIgniter ecosystem
+- List all known and findable resources for the CodeIgniter framework
 
 ## Project Structure
 
