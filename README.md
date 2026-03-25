@@ -15,10 +15,12 @@ A comprehensive catalog of all known packages, libraries, tools, and resources b
 
 | Version | Status | Browse |
 |---------|--------|--------|
-| v1 | Discontinued | [v1/](v1/README.md) |
-| v2 | Discontinued | [v2/](v2/README.md) |
-| v3 | Security-only maintenance | [v3/](v3/README.md) |
-| v4 | Active development | [v4/](v4/README.md) |
+| v1 | Discontinued | [v1/](v1/README.md) [Distros](v1/distros)|
+| v2 | Discontinued | [v2/](v2/README.md)  [Distros](v2/distros) |
+| v3 | Security-only maintenance | [v3/](v3/README.md)  [Distros](v3/distros) |
+| v4 | Active development | [v4/](v4/README.md)  [Distros](v4/distros)|
+
+**Notice** : Distros are provided as a reference. New Projects should be created with the latest release.
 
 ## History
 
@@ -54,7 +56,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines 
 
 | Contributor | Contribution |
 |------------|--------------|
-| <!-- Add contributors here --> | |
+| InsiteFX | Distros v1 - current v 4.7.1 |
 
 ## License
 
